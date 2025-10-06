@@ -1,0 +1,4 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/htm-to-md/.venv/Scripts/python.exe",
+  "python.terminal.activateEnvironment": true
+}

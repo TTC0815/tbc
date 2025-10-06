@@ -1,0 +1,9 @@
+[project]
+name = "htm-to-md"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "html-to-markdown>=1.16.0",
+]
